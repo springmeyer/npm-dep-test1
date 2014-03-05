@@ -1,0 +1,11 @@
+{
+  "name": "npm-dep-test1",
+  "description": "just a test",
+  "version": "0.1.0",
+  "author": "Dane Springmeyer <dane@mapbox.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mapbox/npm-dep-test1.git"
+  },
+  "main":"package.json"
+}
